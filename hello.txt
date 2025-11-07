@@ -1,0 +1,2 @@
+git config --global user.name pjd2107
+git config --global user.name prawjaldalmeida70@gmail.com
